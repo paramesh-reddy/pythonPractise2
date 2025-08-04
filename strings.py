@@ -20,6 +20,6 @@ if "ua" not in  x :
     print (x.strip()) 
     print (x.replace("qu", 'ua'))
     print (x.split(" "))
-    print ( x[2:])
+    print ( x[2:3])
     print(x)
     
