@@ -1,9 +1,9 @@
 #
 # string in arrays
 
-# x= 'hello'
-# for s in  x:
-#   print(s+s, end=" ")
+x= 'hello'
+for s in  x:
+  print(s+s, end=" ")
   
   #string in functions 
   # len, .in , .not, .upper ,.lower,.strip, .replace,.split 
